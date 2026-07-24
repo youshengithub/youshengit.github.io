@@ -28,7 +28,7 @@ My research interests include **Adversarial Machine Learning**, **AI Security**,
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TEVC 2026</div><img src='images/unibreak.svg' alt="UniBreak" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TEVC 2026</div><img src='images/unibreak.png' alt="UniBreak" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **UniBreak: A Unified Evolutionary Token-Level Jailbreaking Framework for Large Language Models**
@@ -45,7 +45,7 @@ My research interests include **Adversarial Machine Learning**, **AI Security**,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TEVC 2025</div><img src='images/sopa.svg' alt="SOPA" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TEVC 2025</div><img src='images/sopa.png' alt="SOPA" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **SOPA: Sensitivity-Oriented Poisoning Attack for Self-Supervised Graph Embedding Model via Bilevel Evolutionary Optimization**
@@ -62,7 +62,7 @@ My research interests include **Adversarial Machine Learning**, **AI Security**,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TEVC 2022</div><img src='images/queryeff.svg' alt="Query-efficient" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TEVC 2022</div><img src='images/queryeff.png' alt="Query-efficient" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Query-Efficient Generation of Adversarial Examples for Defensive DNNs via Multi-Objective Optimization**
@@ -80,19 +80,12 @@ Wei Jiang, **Shen You**, Jinyu Zhan, Xupeng Wang, Hong Lei, Deepak Adhikari
 </div>
 
 # 🎖 Honors and Awards
-- *2025.09* &nbsp; CityU Research Scholarship, City University of Hong Kong (top 10%)
+- *2025.09* &nbsp; **CityU Research Scholarship**, City University of Hong Kong (top 10%)
 - *2023.11* &nbsp; **National Scholarship for Graduate Students**, China (top 4%) 🏆
-- *2023.11* &nbsp; Outstanding Graduate, Sichuan Province (top 4%)
-- *2023.11* &nbsp; Outstanding Graduate, UESTC (top 10%)
-- *2023.11* &nbsp; First-Class Scholarship for Graduate Students, UESTC (top 7%)
-- *2022.11* &nbsp; First-Class Scholarship for Graduate Students, UESTC (top 7%)
-- *2021.11* &nbsp; Second-Class Scholarship for Graduate Students, UESTC (top 30%)
-- *2020.10* &nbsp; **First Prize**, 13th National College Student Mathematical Modeling Competition (top 8%) 🥇
-- *2019.10* &nbsp; **First Prize**, 12th National College Student Mathematical Modeling Competition (top 8%) 🥇
-- *2019.06* &nbsp; **First Prize**, 16th May 1st Mathematical Modeling Competition (top 5%) 🥇
-- *2022.10* &nbsp; Third Prize, 19th National Graduate Mathematical Modeling Competition
-- *2021.10* &nbsp; Third Prize, 18th National Graduate Mathematical Modeling Competition
-- *2018.04* &nbsp; Second Prize, China College Computer Contest – Team Programming Ladder
+- *2023.11* &nbsp; **Outstanding Graduate**, Sichuan Province (top 4%)
+- *2023.11* &nbsp; First-Class Scholarship for Graduate Students, UESTC (top 7%) × 2
+- *2020.10* &nbsp; **First Prize**, National College Student Mathematical Modeling Competition × 2 (top 8%) 🥇
+- *2019.06* &nbsp; **First Prize**, May 1st Mathematical Modeling Competition (top 5%) 🥇
 
 # 📖 Educations
 - *2024.09 – 2028.06 (expected)* &nbsp; **Ph.D.** in Computer Science, City University of Hong Kong, GPA: 3.85/4.3
