@@ -12,7 +12,7 @@ redirect_from:
 
 I am a PhD student (full scholarship) in the Department of Computer Science at [City University of Hong Kong (CityU)](https://www.cs.cityu.edu.hk/), supervised by [Prof. Ka-Chun Wong](https://www.cs.cityu.edu.hk/~kc.w/). Prior to this, I received my M.S. degree (Rank 1/232) from the [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), and my B.E. degree from [Southwest Jiaotong University (SWJTU)](https://www.swjtu.edu.cn/).
 
-My research interests include **Adversarial Machine Learning**, **AI Security**, and **Evolutionary Computation**, with a focus on adversarial attacks/defenses for DNNs and LLMs, graph model poisoning, and evolutionary optimization.
+My research interests include **Adversarial Machine Learning**, **AI Security**, and **Evolutionary Computation**, with a focus on adversarial attacks/defenses for DNNs and LLMs, and evolutionary optimization for AI security.
 
 # 🔥 News
 - *2026.01*: &nbsp;🎉 Paper **UniBreak** accepted by **IEEE TEVC** (Special Issue, SCI Q1)!
@@ -20,7 +20,7 @@ My research interests include **Adversarial Machine Learning**, **AI Security**,
 - *2024.09*: &nbsp;🎓 Started PhD at City University of Hong Kong with full scholarship!
 - *2023.11*: &nbsp;🏆 Awarded **National Scholarship for Graduate Students** (top 4%)!
 
-# 📝 Selected Papers
+# 📝 Selected Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TEVC 2026</div><img src='images/unibreak.png' alt="UniBreak" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
