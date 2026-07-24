@@ -2,6 +2,7 @@
 title                    : "Shen You"
 description              : "PhD Student in Computer Science, City University of Hong Kong"
 repository               : "youshengithub/youshengithub.github.io"
+baseurl                  : "/youshengit.github.io"
 google_scholar_stats_use_cdn : true
 
 # SEO Related
