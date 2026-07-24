@@ -79,11 +79,6 @@ A query-efficient black-box adversarial attack against defensive DNNs via multi-
   *IEEE Transactions on Computational Biology and Bioinformatics*, 2026 \
   \[[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ok_jDvgAAAAJ&citation_for_view=Ok_jDvgAAAAJ:_FxGoFyzp5QC)\]
 
-- GazeNet: Neural Network-Based Visual Attention Simulation for Museum Exhibition Optimization \
-  C Tian, **S You**, W Wang \
-  *IEEE Access*, 2026 \
-  \[[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ok_jDvgAAAAJ&citation_for_view=Ok_jDvgAAAAJ:WF5omc3nYNoC)\]
-
 - VeAttack: Downstream-Agnostic Vision Encoder Attack against Large Vision Language Models \
   H Mei, Z Wang, **S You**, M Dong, C Xu \
   *arXiv preprint arXiv:2505.17440*, 2025 &nbsp; <span style="color:red">**[13 Citations]**</span> \
