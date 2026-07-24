@@ -39,7 +39,7 @@ My research interests include **Adversarial Machine Learning**, **AI Security**,
 
 [\[Paper\]](https://ieeexplore.ieee.org/document/10855453) [\[Google Scholar\]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ok_jDvgAAAAJ&citation_for_view=Ok_jDvgAAAAJ:eQOLeE2rZwMC)
 
-We propose a unified evolutionary token-level jailbreaking framework for LLMs, revealing vulnerabilities in model decision boundaries through perturbation optimization.
+A unified evolutionary token-level jailbreaking framework that reveals LLM vulnerabilities through perturbation optimization.
 </div>
 </div>
 
@@ -54,7 +54,7 @@ We propose a unified evolutionary token-level jailbreaking framework for LLMs, r
 
 [\[Paper\]](https://ieeexplore.ieee.org/document/10684800) [\[Google Scholar\]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ok_jDvgAAAAJ&citation_for_view=Ok_jDvgAAAAJ:zYLM7Y9cAGgC)
 
-We propose a sensitivity-oriented poisoning attack on self-supervised graph embedding models, combining gradient-based and evolutionary optimization to identify and exploit vulnerable graph structures.
+A sensitivity-oriented poisoning attack on self-supervised graph embedding models via bilevel evolutionary optimization.
 </div>
 </div>
 
@@ -69,7 +69,7 @@ Wei Jiang, **Shen You**, Jinyu Zhan, Xupeng Wang, Hong Lei, Deepak Adhikari
 
 [\[Paper\]](https://ieeexplore.ieee.org/document/9988479) [\[Google Scholar\]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ok_jDvgAAAAJ&citation_for_view=Ok_jDvgAAAAJ:u-x6o8ySG0sC)
 
-We propose a query-efficient black-box adversarial attack against defensive DNNs, formulating adversarial example generation as a multi-objective optimization problem solved via GA and PSO.
+A query-efficient black-box adversarial attack against defensive DNNs via multi-objective evolutionary optimization.
 </div>
 </div>
 
