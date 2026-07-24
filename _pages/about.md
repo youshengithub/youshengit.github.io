@@ -111,6 +111,4 @@ Wei Jiang, **Shen You**, Jinyu Zhan, Xupeng Wang, Hong Lei, Deepak Adhikari
 
 # 💼 Experience
 - *2023.06 – 2024.03* &nbsp; **Software Engineer Intern**, Alibaba – Taobao Live, Client Technology
-  - Developed a high-performance special effects video player (AlphaVideo) using C++, FFMpeg, OpenGL, GDI32; reduced CPU usage by **90%** and memory by **50%** vs. WebGL implementation.
 - *2023.06 – 2024.12* &nbsp; **Research Assistant**, The Hong Kong Polytechnic University
-  - Designed backdoor attack methods for graph neural networks; achieved attack generation time of only **12.5%** of SOTA with **30%+ higher** attack success rate.
