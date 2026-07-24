@@ -1,68 +1,72 @@
-# Shen You - Academic Homepage
 
-Personal academic homepage built with [acad-homepage](https://github.com/RayeRen/acad-homepage.github.io) template.
+<h1 align="center">
+AcadHomepage
+</h1>
 
-## 🚀 Quick Deploy to GitHub Pages
+<div align="center">
 
-### Step 1: Create GitHub Repository
+[![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
+[![](https://img.shields.io/github/forks/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
+[![](https://img.shields.io/github/issues/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
+[![](https://img.shields.io/github/license/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io/blob/main/LICENSE)  | [中文文档](./docs/README-zh.md) 
+</div>
 
-1. Go to [github.com/new](https://github.com/new)
-2. Name it: `shenyou-cityu.github.io` (or `<yourusername>.github.io`)
-3. Make it **Public**
-4. Don't initialize with README
+<p align="center">A Modern and Responsive Academic Personal Homepage</p>
 
-### Step 2: Fork the template
+<p align="center">
+    <br>
+    <img src="docs/screenshot.png" width="100%"/>
+    <br>
+</p>
 
-```bash
-# Option A: Use the acad-homepage template directly
-# Go to https://github.com/RayeRen/acad-homepage.github.io
-# Click "Use this template" → "Create a new repository"
-# Name it: <yourusername>.github.io
-```
+Some examples:
+- [Demo Page](https://rayeren.github.io/acad-homepage.github.io/)
+- [Personal Homepage of the author](https://rayeren.github.io/)
 
-### Step 3: Replace key files
+## Key Features
+- **Automatically update google scholar citations**: using the google scholar crawler and github action, this REPO can update the author citations and publication citations automatically.
+- **Support Google analytics**: you can trace the traffics of your homepage by easy configuration.
+- **Responsive**: this homepage automatically adjust for different screen sizes and viewports.
+- **Beautiful and Simple Design**: this homepage is beautiful and simple, which is very suitable for academic personal homepage.
+- **SEO**: search Engine Optimization (SEO) helps search engines find the information you publish on your homepage easily, then rank it against similar websites.
 
-Copy the following files to your forked repo:
+## Quick Start
 
-| This file | → | Destination in repo |
-|-----------|---|---------------------|
-| `_config.yml` | → | `_config.yml` |
-| `_pages/about.md` | → | `_pages/about.md` |
-| `images/avatar.jpg` | → | `images/avatar.jpg` |
-| `images/unibreak.svg` | → | `images/unibreak.svg` |
-| `images/sopa.svg` | → | `images/sopa.svg` |
-| `images/queryeff.svg` | → | `images/queryeff.svg` |
-| `files/cv.pdf` | → | `files/cv.pdf` |
+1. Fork this REPO and rename to `USERNAME.github.io`, where `USERNAME` is your github USERNAME.
+1. Configure the google scholar citation crawler:
+    1. Find your google scholar ID in the url of your google scholar page (e.g., https://scholar.google.com/citations?user=SCHOLAR_ID), where `SCHOLAR_ID` is your google scholar ID.
+    1. Set GOOGLE_SCHOLAR_ID variable to your google scholar ID in `Settings -> Secrets -> Actions -> New repository secret` of the REPO website with `name=GOOGLE_SCHOLAR_ID` and `value=SCHOLAR_ID`.
+    1. Click the `Action` of the REPO website and enable the workflows by clicking *"I understand my workflows, go ahead and enable them"*. This github action will generate google scholar citation stats data `gs_data.json` in `google-scholar-stats` branch of your REPO. When you update your main branch, this action will be triggered. This action will also be trigger 08:00 UTC everyday.
+1. Generate favicon using [favicon-generator](https://redketchup.io/favicon-generator) and download all generated files to `REPO/images`.
+1. Modify the configuration of your homepage `_config.yml`:
+    1. `title`: the title of your homepage
+    1. `description`: the description of your homepage
+    1. `repository`: USER_NAME/REPO_NAME  
+    1. `google_analytics_id` (optional): google analytics ID
+    1. SEO Related keys (optional): get these keys from search engine consoles (e.g. Google, Bing and Baidu) and paste here.
+    1. `author`: the author information of this homepage, including some other websites, emails, city and univeristy.
+    1. More configuration details are described in the comments.
+1. Add your homepage content in `_pages/about.md`.
+    1. You can use html+markdown syntax just same as jekyll.
+    1. You can use a `<span>` tag with class `show_paper_citations` and attribute `data` to display the citations of your paper. Set the data to the google scholar paper ID. For
+        ```html
+        <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
+        ``` 
+        > Q: How to get the google scholar paper ID?   
+        > A: Enter your google scholar homepage and click the paper name. Then you can see the paper ID from `citation_for_view=XXXX`, where `XXXX` is the required paper ID.
+1. Your page will be published at `https://USERNAME.github.io`.
 
-### Step 4: Update _config.yml
+## Debug Locally
 
-Change `repository` to match your GitHub username:
-```yaml
-repository: "YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME.github.io"
-```
+1. Clone your REPO to local using `git clone`.
+1. Install Jekyll building environment, including `Ruby`, `RubyGems`, `GCC` and `Make` following [the installation guide](https://jekyllrb.com/docs/installation/#requirements).
+1. Run `bash run_server.sh` to start Jekyll livereload server.
+1. Open http://127.0.0.1:4000 in your browser.
+1. If you change the source code of the website, the livereload server will automatically refresh.
+1. When you finish the modification of your homepage, `commit` your changings and `push` to your remote REPO using `git` command.
 
-### Step 5: Enable GitHub Pages
+# Acknowledges
 
-1. Go to repo **Settings** → **Pages**
-2. Source: **Deploy from a branch**
-3. Branch: **main** / root
-4. Save → your site will be live at `https://<username>.github.io`
-
----
-
-## 📝 Customization Checklist
-
-- [ ] Update `_config.yml`: email, github username, googlescholar URL
-- [ ] Replace `images/avatar.jpg` with your photo
-- [ ] Add CV PDF to `files/cv.pdf`
-- [ ] Update paper links in `_pages/about.md` with actual DOI/IEEE links
-- [ ] Add news items to the News section
-- [ ] Replace SVG paper images with actual paper figures (500×300px recommended)
-
-## 📄 Papers
-
-| Paper | Venue | Year | Citations |
-|-------|-------|------|-----------|
-| UniBreak: Unified Evolutionary Token-Level Jailbreaking | IEEE TEVC | 2026 | - |
-| SOPA: Sensitivity-Oriented Poisoning Attack | IEEE TEVC | 2025 | 1 |
-| Query-Efficient AE Attack via Multi-Objective Optimization | IEEE TEVC | 2022 | 18 |
+- AcadHomepage incorporates Font Awesome, which is distributed under the terms of the SIL OFL 1.1 and MIT License.
+- AcadHomepage is influenced by the github repo [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes), which is distributed under the MIT License.
+- AcadHomepage is influenced by the github repo [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io), which is distributed under the MIT License.

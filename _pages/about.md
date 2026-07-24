@@ -99,6 +99,16 @@ Wei Jiang, **Shen You**, Jinyu Zhan, Xupeng Wang, Hong Lei, Deepak Adhikari
 - *2021.09 – 2024.06* &nbsp; **M.S.** in Software Engineering, UESTC, GPA: 3.51/4.0, **Rank: 1/232**
 - *2017.09 – 2021.06* &nbsp; **B.E.** in Pharmaceutical Engineering (minor: Software Engineering), Southwest Jiaotong University
 
+# 🎓 Teaching
+- *2025 Fall* &nbsp; **Lab Instructor**, CS5488 – Natural Language Processing, City University of Hong Kong
+- *2025 Spring* &nbsp; **Lab Instructor**, CS4480 – Computer Security, City University of Hong Kong
+- *2024 Fall* &nbsp; **Lab Instructor**, CS5488 – Natural Language Processing, City University of Hong Kong
+- *2024 Spring* &nbsp; **Lab Instructor**, CS4480 – Computer Security, City University of Hong Kong
+
+# 🔍 Academic Services
+- **Reviewer**, IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)
+- **Reviewer**, ACM Computing Surveys
+
 # 💼 Experience
 - *2023.06 – 2024.03* &nbsp; **Software Engineer Intern**, Alibaba – Taobao Live, Client Technology
   - Developed a high-performance special effects video player (AlphaVideo) using C++, FFMpeg, OpenGL, GDI32; reduced CPU usage by **90%** and memory by **50%** vs. WebGL implementation.
