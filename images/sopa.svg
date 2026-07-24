@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="300" viewBox="0 0 500 300">
+  <rect width="500" height="300" fill="#0d1f12"/>
+  <rect x="20" y="20" width="460" height="260" rx="8" fill="#0a1a0e" stroke="#22c55e" stroke-width="2"/>
+  <text x="250" y="75" text-anchor="middle" font-family="Arial" font-size="22" font-weight="bold" fill="#22c55e">SOPA</text>
+  <text x="250" y="100" text-anchor="middle" font-family="Arial" font-size="11" fill="#86efac">Sensitivity-Oriented Poisoning Attack</text>
+  <text x="250" y="117" text-anchor="middle" font-family="Arial" font-size="11" fill="#86efac">for Self-Supervised Graph Embedding</text>
+  <!-- Graph nodes -->
+  <circle cx="150" cy="185" r="18" fill="#166534" stroke="#22c55e" stroke-width="2"/>
+  <circle cx="210" cy="155" r="14" fill="#14532d" stroke="#4ade80" stroke-width="1.5"/>
+  <circle cx="270" cy="190" r="16" fill="#166534" stroke="#22c55e" stroke-width="2"/>
+  <circle cx="330" cy="158" r="12" fill="#14532d" stroke="#4ade80" stroke-width="1.5"/>
+  <circle cx="390" cy="185" r="18" fill="#dc2626" stroke="#ef4444" stroke-width="2.5"/>
+  <text x="390" y="190" text-anchor="middle" font-family="Arial" font-size="10" fill="white">!</text>
+  <!-- Edges -->
+  <line x1="168" y1="185" x2="196" y2="163" stroke="#4ade80" stroke-width="1.5" stroke-dasharray="4,2"/>
+  <line x1="224" y1="160" x2="254" y2="180" stroke="#4ade80" stroke-width="1.5" stroke-dasharray="4,2"/>
+  <line x1="286" y1="185" x2="318" y2="165" stroke="#4ade80" stroke-width="1.5" stroke-dasharray="4,2"/>
+  <line x1="342" y1="163" x2="372" y2="178" stroke="#ef4444" stroke-width="2" stroke-dasharray="3,2"/>
+  <text x="250" y="240" text-anchor="middle" font-family="Arial" font-size="10" fill="#4a6050">IEEE Trans. Evolutionary Computation 2025</text>
+  <text x="250" y="258" text-anchor="middle" font-family="Arial" font-size="10" fill="#4a6050">You et al., Vol.30, No.3, pp.1108-1122</text>
+</svg>
