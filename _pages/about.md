@@ -26,7 +26,7 @@ My research interests include **Adversarial Machine Learning**, **AI Security**,
 - *2024.09*: &nbsp;🎓 Started PhD at City University of Hong Kong with full scholarship!
 - *2024.03*: &nbsp;🏆 Awarded **National Scholarship for Graduate Students** (top 4%)!
 
-# 📝 Publications
+# 📝 Selected Papers
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TEVC 2026</div><img src='images/unibreak.png' alt="UniBreak" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
