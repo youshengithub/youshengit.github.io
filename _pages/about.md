@@ -67,6 +67,38 @@ A query-efficient black-box adversarial attack against defensive DNNs via multi-
 </div>
 </div>
 
+**Other Publications**
+
+- Gero-LLM: A Multimodal Large Language Model for Geroprotector Discovery via Cross-Modal Differentiated Mutual Learning \
+  Z Li, J Yu, **S You**, D Gong, J Liu, L Cai, Q Lin, X Li, KC Wong \
+  *IEEE Journal of Biomedical and Health Informatics*, 2026 \
+  \[[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ok_jDvgAAAAJ&citation_for_view=Ok_jDvgAAAAJ:LkGwnXOMwfcC)\]
+
+- METRON: Metabolic Dynamic Perception Kolmogorov-Arnold Network for Biological Age Estimation \
+  Z Li, J Yu, **S You**, H Liu, L Cai, Y Deng, L Wei, J Ji, Q Lin, X Li, KC Wong \
+  *IEEE Transactions on Computational Biology and Bioinformatics*, 2026 \
+  \[[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ok_jDvgAAAAJ&citation_for_view=Ok_jDvgAAAAJ:_FxGoFyzp5QC)\]
+
+- GazeNet: Neural Network-Based Visual Attention Simulation for Museum Exhibition Optimization \
+  C Tian, **S You**, W Wang \
+  *IEEE Access*, 2026 \
+  \[[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ok_jDvgAAAAJ&citation_for_view=Ok_jDvgAAAAJ:WF5omc3nYNoC)\]
+
+- VeAttack: Downstream-Agnostic Vision Encoder Attack against Large Vision Language Models \
+  H Mei, Z Wang, **S You**, M Dong, C Xu \
+  *arXiv preprint arXiv:2505.17440*, 2025 &nbsp; <span style="color:red">**[13 Citations]**</span> \
+  \[[arXiv](https://arxiv.org/abs/2505.17440)\] \[[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ok_jDvgAAAAJ&citation_for_view=Ok_jDvgAAAAJ:Y0pCki6q_DkC)\]
+
+- Elucidating Spatiotemporal Chromatin Dynamics with Multi-Stage Differential Variations from Hi-C \
+  Z Li, J Yu, **S You**, L Wei, Q Lin, X Li, KC Wong \
+  *Knowledge-Based Systems* 317, 113516, 2025 \
+  \[[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ok_jDvgAAAAJ&citation_for_view=Ok_jDvgAAAAJ:IjCSPb-OGe4C)\]
+
+- Iterative Training Attack: A Black-Box Adversarial Attack via Perturbation Generative Network \
+  H Lei, W Jiang, J Zhan, **S You**, L Jin, X Xie, Z Chang \
+  *Journal of Circuits, Systems and Computers* 32 (18), 2350314, 2023 \
+  \[[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ok_jDvgAAAAJ&citation_for_view=Ok_jDvgAAAAJ:Tyk-4Ss8FVUC)\]
+
 # 🎖 Honors and Awards
 - *2025.09* &nbsp; **CityU Research Scholarship**, City University of Hong Kong (top 10%)
 - *2023.11* &nbsp; **National Scholarship for Graduate Students**, China (top 4%) 🏆
