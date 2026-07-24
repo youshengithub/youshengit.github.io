@@ -39,9 +39,7 @@ My research interests include **Adversarial Machine Learning**, **AI Security**,
 
 [\[Paper\]](https://ieeexplore.ieee.org/document/10855453) [\[Google Scholar\]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ok_jDvgAAAAJ&citation_for_view=Ok_jDvgAAAAJ:eQOLeE2rZwMC)
 
-- Proposes a **unified token-level jailbreaking framework** for LLMs using evolutionary algorithms.
-- Achieves attack success rate improvements of **62.36%, 57.89%, and 64.81%** over baselines on three models.
-- Develops a perturbation reuse mechanism and token sensitivity analysis for zero-shot attack transfer.
+We propose a unified evolutionary token-level jailbreaking framework for LLMs, revealing vulnerabilities in model decision boundaries through perturbation optimization.
 </div>
 </div>
 
@@ -56,9 +54,7 @@ My research interests include **Adversarial Machine Learning**, **AI Security**,
 
 [\[Paper\]](https://ieeexplore.ieee.org/document/10684800) [\[Google Scholar\]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ok_jDvgAAAAJ&citation_for_view=Ok_jDvgAAAAJ:zYLM7Y9cAGgC)
 
-- Proposes a **sensitivity-oriented poisoning attack** on self-supervised graph embedding models via bilevel optimization.
-- Attack generation time is only **12.5%** of the current best algorithm, with **30%+ higher** attack success rate.
-- Identifies sensitive nodes/edges via gradient and degree information to guide adversarial example generation.
+We propose a sensitivity-oriented poisoning attack on self-supervised graph embedding models, combining gradient-based and evolutionary optimization to identify and exploit vulnerable graph structures.
 </div>
 </div>
 
@@ -73,9 +69,7 @@ Wei Jiang, **Shen You**, Jinyu Zhan, Xupeng Wang, Hong Lei, Deepak Adhikari
 
 [\[Paper\]](https://ieeexplore.ieee.org/document/9988479) [\[Google Scholar\]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ok_jDvgAAAAJ&citation_for_view=Ok_jDvgAAAAJ:u-x6o8ySG0sC)
 
-- Proposes a **query-efficient black-box adversarial attack** targeting DNNs with defensive mechanisms.
-- Formulates AE generation as a **multi-objective optimization** problem (effectiveness, evasiveness, coverage).
-- Combines **GA and PSO** with AE-specific operators including block/pixel-level crossovers and discrete mutation.
+We propose a query-efficient black-box adversarial attack against defensive DNNs, formulating adversarial example generation as a multi-objective optimization problem solved via GA and PSO.
 </div>
 </div>
 
