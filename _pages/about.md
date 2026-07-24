@@ -119,7 +119,4 @@ A query-efficient black-box adversarial attack against defensive DNNs via multi-
 - *2023.06 – 2024.03* &nbsp; **Software Engineer Intern**, Alibaba – Taobao Live, Client Technology
 - *2023.06 – 2024.12* &nbsp; **Research Assistant**, The Hong Kong Polytechnic University
 
-<div style="text-align: center; margin-top: 30px;">
-<a href="https://info.flagcounter.com/0W2T"><img src="https://s01.flagcounter.com/count2/0W2T/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-</div>
 
