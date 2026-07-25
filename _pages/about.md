@@ -12,7 +12,7 @@ redirect_from:
 
 I am a PhD student (full scholarship) in the Department of Computer Science at [City University of Hong Kong (CityU)](https://www.cs.cityu.edu.hk/), supervised by [Prof. Ka-Chun Wong](https://www.cs.cityu.edu.hk/~kc.w/). Prior to this, I received my M.S. degree (Rank 1/232) from the [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), and my B.E. degree from [Southwest Jiaotong University (SWJTU)](https://www.swjtu.edu.cn/).
 
-My research interests include **Adversarial Machine Learning**, **AI Security**, and **Evolutionary Computation**, with a focus on adversarial attacks/defenses for DNNs and LLMs, and evolutionary optimization for AI security.
+My research interests include **Adversarial Machine Learning**, **AI Security**, and **Evolutionary Computation**, with a focus on adversarial attacks/defenses for DNNs and LLMs, graph model poisoning, and evolutionary optimization.
 
 # 🔥 News
 - *2026.01*: &nbsp;🎉 Paper **UniBreak** accepted by **IEEE TEVC** (Special Issue, SCI Q1)!
@@ -20,40 +20,52 @@ My research interests include **Adversarial Machine Learning**, **AI Security**,
 - *2024.09*: &nbsp;🎓 Started PhD at City University of Hong Kong with full scholarship!
 - *2023.11*: &nbsp;🏆 Awarded **National Scholarship for Graduate Students** (top 4%)!
 
-# 📝 Selected Publications
+# 📝 Selected Papers
 
-{::nomarkdown}
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">IEEE TEVC 2026</div><img src="images/unibreak.png" alt="UniBreak" width="100%"></div></div><div class="paper-box-text"><p><strong>UniBreak: A Unified Evolutionary Token-Level Jailbreaking Framework for Large Language Models</strong></p><p><strong>Shen You</strong>, Wei Jiang, Hefei Mei, Danei Gong, Zhongshen Li, Jixiang Yu, Junkai Ji, Qiuzhen Lin, Xiangtao Li, Ka-Chun Wong</p><p><em>IEEE Transactions on Evolutionary Computation</em> (Special Issue), SCI Q1, 2026</p><p><a href="https://ieeexplore.ieee.org/document/10855453">[Paper]</a> <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=Ok_jDvgAAAAJ&amp;citation_for_view=Ok_jDvgAAAAJ:eQOLeE2rZwMC">[Google Scholar]</a></p><p>A unified evolutionary token-level jailbreaking framework that reveals LLM vulnerabilities through perturbation optimization.</p></div></div>
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">IEEE TEVC 2025</div><img src="images/sopa.png" alt="SOPA" width="100%"></div></div><div class="paper-box-text"><p><strong>SOPA: Sensitivity-Oriented Poisoning Attack for Self-Supervised Graph Embedding Model via Bilevel Evolutionary Optimization</strong></p><p><strong>Shen You</strong>, Kai Zhou, Zhongshen Li, Kay Chen Tan, Qiuzhen Lin, Xiangtao Li, Ka-Chun Wong</p><p><em>IEEE Transactions on Evolutionary Computation</em>, Vol. 30, No. 3, pp. 1108&ndash;1122, SCI Q1, 2025</p><p><a href="https://ieeexplore.ieee.org/document/10684800">[Paper]</a> <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=Ok_jDvgAAAAJ&amp;citation_for_view=Ok_jDvgAAAAJ:zYLM7Y9cAGgC">[Google Scholar]</a></p><p>A sensitivity-oriented poisoning attack on self-supervised graph embedding models via bilevel evolutionary optimization.</p></div></div>
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">IEEE TEVC 2022</div><img src="images/queryeff.png" alt="Query-efficient" width="100%"></div></div><div class="paper-box-text"><p><strong>Query-Efficient Generation of Adversarial Examples for Defensive DNNs via Multi-Objective Optimization</strong></p><p>Wei Jiang, <strong><u>Shen You</u></strong>, Jinyu Zhan, Xupeng Wang, Hong Lei, Deepak Adhikari</p><p><em>IEEE Transactions on Evolutionary Computation</em>, Vol. 27, No. 4, pp. 832&ndash;847, SCI Q1, 2022 &nbsp; <span style="color:green"><em>(Student First Author)</em></span></p><p><a href="https://ieeexplore.ieee.org/document/9988479">[Paper]</a> <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=Ok_jDvgAAAAJ&amp;citation_for_view=Ok_jDvgAAAAJ:u-x6o8ySG0sC">[Google Scholar]</a></p><p>A query-efficient black-box adversarial attack against defensive DNNs via multi-objective evolutionary optimization.</p></div></div>
-{:/nomarkdown}
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TEVC 2026</div><img src='images/unibreak.png' alt="UniBreak" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-**Other Publications**
+**UniBreak: A Unified Evolutionary Token-Level Jailbreaking Framework for Large Language Models**
 
-- Gero-LLM: A Multimodal Large Language Model for Geroprotector Discovery via Cross-Modal Differentiated Mutual Learning \
-  Z Li, J Yu, **S You**, D Gong, J Liu, L Cai, Q Lin, X Li, KC Wong \
-  *IEEE Journal of Biomedical and Health Informatics*, 2026 \
-  \[[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ok_jDvgAAAAJ&citation_for_view=Ok_jDvgAAAAJ:LkGwnXOMwfcC)\]
+**Shen You**, Wei Jiang, Hefei Mei, Danei Gong, Zhongshen Li, Jixiang Yu, Junkai Ji, Qiuzhen Lin, Xiangtao Li, Ka-Chun Wong
 
-- METRON: Metabolic Dynamic Perception Kolmogorov-Arnold Network for Biological Age Estimation \
-  Z Li, J Yu, **S You**, H Liu, L Cai, Y Deng, L Wei, J Ji, Q Lin, X Li, KC Wong \
-  *IEEE Transactions on Computational Biology and Bioinformatics*, 2026 \
-  \[[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ok_jDvgAAAAJ&citation_for_view=Ok_jDvgAAAAJ:_FxGoFyzp5QC)\]
+*IEEE Transactions on Evolutionary Computation* (Special Issue), SCI Q1, 2026
 
-- VeAttack: Downstream-Agnostic Vision Encoder Attack against Large Vision Language Models \
-  H Mei, Z Wang, **S You**, M Dong, C Xu \
-  *arXiv preprint arXiv:2505.17440*, 2025 &nbsp; <span style="color:red">**[13 Citations]**</span> \
-  \[[arXiv](https://arxiv.org/abs/2505.17440)\] \[[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ok_jDvgAAAAJ&citation_for_view=Ok_jDvgAAAAJ:Y0pCki6q_DkC)\]
+[\[Paper\]](https://ieeexplore.ieee.org/document/10855453) [\[Google Scholar\]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ok_jDvgAAAAJ&citation_for_view=Ok_jDvgAAAAJ:eQOLeE2rZwMC)
 
-- Elucidating Spatiotemporal Chromatin Dynamics with Multi-Stage Differential Variations from Hi-C \
-  Z Li, J Yu, **S You**, L Wei, Q Lin, X Li, KC Wong \
-  *Knowledge-Based Systems* 317, 113516, 2025 \
-  \[[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ok_jDvgAAAAJ&citation_for_view=Ok_jDvgAAAAJ:IjCSPb-OGe4C)\]
+A unified evolutionary token-level jailbreaking framework that reveals LLM vulnerabilities through perturbation optimization.
+</div>
+</div>
 
-- Iterative Training Attack: A Black-Box Adversarial Attack via Perturbation Generative Network \
-  H Lei, W Jiang, J Zhan, **S You**, L Jin, X Xie, Z Chang \
-  *Journal of Circuits, Systems and Computers* 32 (18), 2350314, 2023 \
-  \[[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ok_jDvgAAAAJ&citation_for_view=Ok_jDvgAAAAJ:Tyk-4Ss8FVUC)\]
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TEVC 2025</div><img src='images/sopa.png' alt="SOPA" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**SOPA: Sensitivity-Oriented Poisoning Attack for Self-Supervised Graph Embedding Model via Bilevel Evolutionary Optimization**
+
+**Shen You**, Kai Zhou, Zhongshen Li, Kay Chen Tan, Qiuzhen Lin, Xiangtao Li, Ka-Chun Wong
+
+*IEEE Transactions on Evolutionary Computation*, Vol. 30, No. 3, pp. 1108–1122, SCI Q1, 2025
+
+[\[Paper\]](https://ieeexplore.ieee.org/document/10684800) [\[Google Scholar\]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ok_jDvgAAAAJ&citation_for_view=Ok_jDvgAAAAJ:zYLM7Y9cAGgC)
+
+A sensitivity-oriented poisoning attack on self-supervised graph embedding models via bilevel evolutionary optimization.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TEVC 2022</div><img src='images/queryeff.png' alt="Query-efficient" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Query-Efficient Generation of Adversarial Examples for Defensive DNNs via Multi-Objective Optimization**
+
+Wei Jiang, **Shen You**, Jinyu Zhan, Xupeng Wang, Hong Lei, Deepak Adhikari
+
+*IEEE Transactions on Evolutionary Computation*, Vol. 27, No. 4, pp. 832–847, SCI Q1, 2022 &nbsp; <span style="color:red">**[18 Citations]**</span>
+
+[\[Paper\]](https://ieeexplore.ieee.org/document/9988479) [\[Google Scholar\]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ok_jDvgAAAAJ&citation_for_view=Ok_jDvgAAAAJ:u-x6o8ySG0sC)
+
+A query-efficient black-box adversarial attack against defensive DNNs via multi-objective evolutionary optimization.
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2025.09* &nbsp; **CityU Research Scholarship**, City University of Hong Kong (top 10%)
@@ -79,7 +91,3 @@ My research interests include **Adversarial Machine Learning**, **AI Security**,
 # 💼 Experience
 - *2023.06 – 2024.03* &nbsp; **Software Engineer Intern**, Alibaba – Taobao Live, Client Technology
 - *2023.06 – 2024.12* &nbsp; **Research Assistant**, The Hong Kong Polytechnic University
-
-
-
-
