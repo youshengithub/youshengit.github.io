@@ -20,7 +20,7 @@ My research interests include **Adversarial Machine Learning**, **AI Security**,
 - *2024.09*: &nbsp;🎓 Started PhD at City University of Hong Kong with full scholarship!
 - *2023.11*: &nbsp;🏆 Awarded **National Scholarship for Graduate Students** (top 4%)!
 
-# 📝 Selected Publications
+# 📝 Selected Papers
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TEVC 2026</div><img src='images/unibreak.png' alt="UniBreak" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -57,9 +57,9 @@ A sensitivity-oriented poisoning attack on self-supervised graph embedding model
 
 **Query-Efficient Generation of Adversarial Examples for Defensive DNNs via Multi-Objective Optimization**
 
-Wei Jiang, **<u>Shen You</u>**, Jinyu Zhan, Xupeng Wang, Hong Lei, Deepak Adhikari
+Wei Jiang, **Shen You**, Jinyu Zhan, Xupeng Wang, Hong Lei, Deepak Adhikari
 
-*IEEE Transactions on Evolutionary Computation*, Vol. 27, No. 4, pp. 832–847, SCI Q1, 2022 &nbsp; <span style="color:green">*(Student First Author)*</span>
+*IEEE Transactions on Evolutionary Computation*, Vol. 27, No. 4, pp. 832–847, SCI Q1, 2022 &nbsp; <span style="color:red">**[18 Citations]**</span>
 
 [\[Paper\]](https://ieeexplore.ieee.org/document/9988479) [\[Google Scholar\]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ok_jDvgAAAAJ&citation_for_view=Ok_jDvgAAAAJ:u-x6o8ySG0sC)
 
