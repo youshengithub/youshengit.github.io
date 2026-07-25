@@ -20,7 +20,7 @@ My research interests include **Adversarial Machine Learning**, **AI Security**,
 - *2024.09*: &nbsp;🎓 Started PhD at City University of Hong Kong with full scholarship!
 - *2023.11*: &nbsp;🏆 Awarded **National Scholarship for Graduate Students** (top 4%)!
 
-# 📝 Selected Papers
+# 📝 Selected Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TEVC 2026</div><img src='images/unibreak.png' alt="UniBreak" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -59,7 +59,7 @@ A sensitivity-oriented poisoning attack on self-supervised graph embedding model
 
 Wei Jiang, **Shen You**, Jinyu Zhan, Xupeng Wang, Hong Lei, Deepak Adhikari
 
-*IEEE Transactions on Evolutionary Computation*, Vol. 27, No. 4, pp. 832–847, SCI Q1, 2022 &nbsp; <span style="color:red">**[18 Citations]**</span>
+*IEEE Transactions on Evolutionary Computation*, Vol. 27, No. 4, pp. 832–847, SCI Q1, 2022 &nbsp; <span style="color:green">*(Student First Author)*</span>
 
 [\[Paper\]](https://ieeexplore.ieee.org/document/9988479) [\[Google Scholar\]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ok_jDvgAAAAJ&citation_for_view=Ok_jDvgAAAAJ:u-x6o8ySG0sC)
 
@@ -67,7 +67,80 @@ A query-efficient black-box adversarial attack against defensive DNNs via multi-
 </div>
 </div>
 
+**Other Publications**
+
+- Gero-LLM: A Multimodal Large Language Model for Geroprotector Discovery via Cross-Modal Differentiated Mutual Learning \
+  Z Li, J Yu, **S You**, D Gong, J Liu, L Cai, Q Lin, X Li, KC Wong \
+  *IEEE Journal of Biomedical and Health Informatics*, 2026 \
+  \[[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ok_jDvgAAAAJ&citation_for_view=Ok_jDvgAAAAJ:LkGwnXOMwfcC)\]
+
+- METRON: Metabolic Dynamic Perception Kolmogorov-Arnold Network for Biological Age Estimation \
+  Z Li, J Yu, **S You**, H Liu, L Cai, Y Deng, L Wei, J Ji, Q Lin, X Li, KC Wong \
+  *IEEE Transactions on Computational Biology and Bioinformatics*, 2026 \
+  \[[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ok_jDvgAAAAJ&citation_for_view=Ok_jDvgAAAAJ:_FxGoFyzp5QC)\]
+
+- VeAttack: Downstream-Agnostic Vision Encoder Attack against Large Vision Language Models \
+  H Mei, Z Wang, **S You**, M Dong, C Xu \
+  *arXiv preprint arXiv:2505.17440*, 2025 \
+  \[[arXiv](https://arxiv.org/abs/2505.17440)\] \[[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ok_jDvgAAAAJ&citation_for_view=Ok_jDvgAAAAJ:Y0pCki6q_DkC)\]
+
+- Elucidating Spatiotemporal Chromatin Dynamics with Multi-Stage Differential Variations from Hi-C \
+  Z Li, J Yu, **S You**, L Wei, Q Lin, X Li, KC Wong \
+  *Knowledge-Based Systems* 317, 113516, 2025 \
+  \[[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ok_jDvgAAAAJ&citation_for_view=Ok_jDvgAAAAJ:qjMakFHDy7sC)\]
+
+- EDTANet: An Edge-Driven Tri-Attention Network for Efficient Single Image Super-Resolution \
+  X Zhang, Y Liang, **S You**, Q Tan, X Wei, L Xu \
+  *Neural Computing and Applications* 37 (14), 788, 2025 \
+  \[[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ok_jDvgAAAAJ&citation_for_view=Ok_jDvgAAAAJ:2osOgNQ5qMEC)\]
+
+- Cardiovascular Disease Prediction and Risk Assessment Through Knowledge-Aware Graph Neural Network \
+  Z Li, J Liu, H Liu, Z Yang, **S You**, W Liu, X Li, KC Wong \
+  *Computer Methods and Programs in Biomedicine* 261, 108571, 2025 \
+  \[[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ok_jDvgAAAAJ&citation_for_view=Ok_jDvgAAAAJ:4TOpqqG69KYC)\]
+
+- Query-Efficient Generation of Adversarial Examples for Defensive DNNs via Multi-Objective Optimization \
+  W Jiang, **S You**, J Zhan, X Wang, H Lei, D Adhikari \
+  *IEEE Transactions on Evolutionary Computation* 27 (4), 832-847, 2023 \
+  \[[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ok_jDvgAAAAJ&citation_for_view=Ok_jDvgAAAAJ:u-x6o8ySG0sC)\]
+
+- DIA-CNN: A Two-Stage Convolutional Neural Network for Detection and Intra-Retinal Layer Segmentation in Optical Coherence Tomography Images \
+  X Xu, **S You**, X Zhang, J Liu, Y Yao, H Lei \
+  *Computerized Medical Imaging and Graphics* 114, 102365, 2024 \
+  \[[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ok_jDvgAAAAJ&citation_for_view=Ok_jDvgAAAAJ:ULOm3_A8WrAC)\]
+
+- A Methylation-Aware Conditional Variational Autoencoder for Interpretable DNA Methylation Marker Discovery in Breast Cancer \
+  J Liu, J Zhan, L Jin, **S You**, Y Li, H Lei, X Xie, L Wang \
+  *Bioinformatics* 40 (Supplement_1), i442-i450, 2024 \
+  \[[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ok_jDvgAAAAJ&citation_for_view=Ok_jDvgAAAAJ:UeHWp8X0CEIC)\]
+
+- An Unsupervised Multi-Attribute Disentanglement Network for Controllable Face Image Generation in Human-Computer Interaction \
+  Q Tan, **S You**, J Liu, X Xu, R Li, H Lei \
+  *Neural Computing and Applications* 36 (8), 4003-4023, 2024 \
+  \[[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ok_jDvgAAAAJ&citation_for_view=Ok_jDvgAAAAJ:ufrVoPGSRksC)\]
+
+- Delineating Developmental Dynamics of Cell Lineage Trees in Spatiotemporal Human Embryogenesis \
+  Q Lin, J Ji, W Xie, **S You**, J Liu, J Yu, X Li, KC Wong \
+  *Nature Communications* 15 (1), 8611, 2024 \
+  \[[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ok_jDvgAAAAJ&citation_for_view=Ok_jDvgAAAAJ:d1gkVwhDpl0C)\]
+
+- A contrastive regularization framework for out-of-distribution detection \
+  W Jiang, **S You**, J Zhan, X Wang, S Wang, W Xu, H Lei, D Adhikari \
+  *Pattern Recognition* 150, 110286, 2024 \
+  \[[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ok_jDvgAAAAJ&citation_for_view=Ok_jDvgAAAAJ:YOwf2qJgpHMC)\]
+
+- Adaptive and Explainable Framework for Integrative Analysis of Whole Slide Images and Spatial Transcriptomics \
+  L Cai, J Liu, H Liu, **S You**, Y Li, Z Yang, Y Deng, X Li, KC Wong \
+  *Briefings in Bioinformatics* 25 (6), bbae537, 2024 \
+  \[[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ok_jDvgAAAAJ&citation_for_view=Ok_jDvgAAAAJ:9yKSN-GCB0IC)\]
+
+- Solving Multi-Label Feature Selection Problem in Time Series with Multi-Objective Evolutionary Optimization \
+  Y Xu, **S You**, B Li, L Wang, H Lei \
+  *Expert Systems with Applications* 239, 122276, 2024 \
+  \[[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ok_jDvgAAAAJ&citation_for_view=Ok_jDvgAAAAJ:Tyk-4Ss8FVUC)\]
+
 # 🎖 Honors and Awards
+- *2026* &nbsp; **CityU Research Tuition Scholarship**, City University of Hong Kong (top < 20%)
 - *2025.09* &nbsp; **CityU Research Scholarship**, City University of Hong Kong (top 10%)
 - *2023.11* &nbsp; **National Scholarship for Graduate Students**, China (top 4%) 🏆
 - *2023.11* &nbsp; **Outstanding Graduate**, Sichuan Province (top 4%)
