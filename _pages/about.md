@@ -90,7 +90,6 @@ A query-efficient black-box adversarial attack against defensive DNNs via multi-
   \[[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ok_jDvgAAAAJ&citation_for_view=Ok_jDvgAAAAJ:qjMakFHDy7sC)\]
 
 # 🎖 Honors and Awards
-- *2026* &nbsp; **CityU Research Tuition Scholarship**, City University of Hong Kong (top < 20%)
 - *2025* &nbsp; **CityU Research Tuition Scholarship**, City University of Hong Kong (top < 8%)
 - *2023.11* &nbsp; **National Scholarship for Graduate Students**, China (top 4%) 🏆
 - *2023.11* &nbsp; **Outstanding Graduate**, Sichuan Province (top 4%)
