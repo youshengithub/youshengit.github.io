@@ -103,8 +103,8 @@ A query-efficient black-box adversarial attack against defensive DNNs via multi-
 - *2017.09 – 2021.06* &nbsp; **B.E.** in Pharmaceutical Engineering (minor: Software Engineering), Southwest Jiaotong University
 
 # 🎓 Teaching
-- *2025 Fall* &nbsp; **Teaching Assistant**, CS5488 Natural Language Processing & CS4480 Computer Security, CityU
-- *2024 Fall* &nbsp; **Teaching Assistant**, CS5488 Natural Language Processing & CS4480 Computer Security, CityU
+- *2025 Fall* &nbsp; **Teaching Assistant**, CS5488 Big Data Algorithms and Techniques & CS4480 Data-Intensive Computing, CityU
+- *2024 Fall* &nbsp; **Teaching Assistant**, CS5488 Big Data Algorithms and Techniques & CS4480 Data-Intensive Computing, CityU
 
 # 🔍 Academic Services
 - **Reviewer**, IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)
