@@ -89,6 +89,11 @@ A query-efficient black-box adversarial attack against defensive DNNs via multi-
   *Knowledge-Based Systems* 317, 113516, 2025 \
   \[[Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Ok_jDvgAAAAJ&citation_for_view=Ok_jDvgAAAAJ:qjMakFHDy7sC)\]
 
+- Physically Real-time Infrared Attack against Optical Flow Estimation Networks \
+  **Shen You**, Wei Jiang, Jiarui Liu, Yijian Ye, Qiuzhen Lin, Xiangtao Li, Ka-Chun Wong \
+  *arXiv preprint arXiv:2607.26651*, 2026 \
+  \[[arXiv](https://arxiv.org/abs/2607.26651)\]
+
 # 🎖 Honors and Awards
 - *2025* &nbsp; **CityU Research Tuition Scholarship**, City University of Hong Kong (top < 8%)
 - *2023.11* &nbsp; **National Scholarship for Graduate Students**, China (top 4%) 🏆
