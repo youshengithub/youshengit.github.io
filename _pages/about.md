@@ -95,7 +95,7 @@ A query-efficient black-box adversarial attack against defensive DNNs via multi-
   \[[arXiv](https://arxiv.org/abs/2607.26651)\]
 
 - Long-Horizon LLM Coordination with Explicit Synchronization and Adaptive Correction \
-  **Shen You**, Xiaoming Zhu, Weining Weng, Hefei Mei, Weixuan Wang, Zhongshen Li, Zeji Li, Ye-Wen Wang, Zijun Liao, Juchao Zhuo, Yang Wei, Fuhao Qiu, Siqin Li, Zhenjie Lian, Danei Gong, Junkai Ji, Xiangtao Li, Qiuzhen Lin, Liang Wang, Ka-Chun Wong \
+  **Shen You**, Xiaoming Zhu, Weining Weng, Hefei Mei, ..., Ka-Chun Wong \
   *arXiv preprint arXiv:2608.01652*, 2026 \
   \[[arXiv](https://arxiv.org/abs/2608.01652)\]
 
